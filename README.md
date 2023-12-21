@@ -1,6 +1,6 @@
 # Conectada Model
 
-The Conectada Model is an AI model used to unify cybersecurity-based software programs. The model is classified on a dataset of cybersecurity-related codes, and new codes that are both effective and secure can be generated.
+The Conectada Model is an AI model used to unify cybersecurity-based software programs. The model is classified on a dataset of cybersecurity-related codes and new codes that are both effective and secure can be generated.
 
 ## Features
 
